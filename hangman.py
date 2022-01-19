@@ -49,6 +49,3 @@ user_inp_difficulty = "2"
 
 welcome()
 hangman_main_play(hangman_basics(get_random_word(user_inp_difficulty)))    
-
-
-
