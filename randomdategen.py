@@ -1,3 +1,11 @@
+"""
+randomdatagen by Prithwish Mukherjee 
+Google Dev Account: https://developers.google.com/profile/u/pmdev
+Replit Account: https://replit.com/@PrithwishMukher
+Devto: https://dev.to/dashboard
+
+"""
+
 import random
 import os
 import time

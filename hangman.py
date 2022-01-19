@@ -1,3 +1,11 @@
+
+"""
+Hangman by Prithwish Mukherjee 
+Google Dev Account: https://developers.google.com/profile/u/pmdev
+Replit Account: https://replit.com/@PrithwishMukher
+Devto: https://dev.to/dashboard
+
+"""
 import random
 from turtle import color
 from termcolor import colored,cprint
@@ -49,3 +57,4 @@ user_inp_difficulty = "2"
 
 welcome()
 hangman_main_play(hangman_basics(get_random_word(user_inp_difficulty)))    
+
